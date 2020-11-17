@@ -5,3 +5,9 @@ body {
 label {
     font-size: 20px;
 }
+
+#calculate-button {
+    position: absolute;
+    bottom: 0px;
+    right: 0
+}
